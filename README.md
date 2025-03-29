@@ -57,10 +57,8 @@ class Duck : Bird
 ```
 
 ### Expected Output
-```
-Turr Turr
-Quack Quack
-```
+![image](https://github.com/user-attachments/assets/20f2221c-1736-4070-ae0f-c0b2e1c01f91)
+
 
 ## 3. Abstraction
 
@@ -94,10 +92,8 @@ class Laptop
 ```
 
 ### Expected Output
-```
-Brand: Dell
-Model: XPS 15
-```
+![image](https://github.com/user-attachments/assets/35c3e45e-3470-4a1e-bbda-7c5acfec2524)
+
 
 > **Note:** Attempting to call `MotherBoardInfo()` from `Main()` will result in a compilation error because it is a private method.
 
