@@ -19,15 +19,16 @@ class Team : Sponsor
 {
     public string PrintInfo()
     {
-        return owner + " Sponsor";
+        return owner + " " + "Sponsor";
     }
 }
 ```
 
 ### Expected Output
-```
-Rakuteen Sponsor
-```
+
+![image](https://github.com/user-attachments/assets/01230377-c9e9-4915-a5dd-ff155e84d912)
+
+
 
 ## 2. Polymorphism
 
