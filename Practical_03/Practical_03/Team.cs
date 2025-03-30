@@ -10,6 +10,10 @@ namespace Practical_03
     {
         private string teamName;
 
+        /// <summary>
+        /// Returns the sponsor information.
+        /// </summary>
+        /// <returns>String containing the sponsor name.</returns>
         public string PrintInfo()
         {
             return owner + " " + "Sponsor";

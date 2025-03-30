@@ -8,6 +8,9 @@ namespace Practical_03
 {
     public class Duck:Bird
     {
+        /// <summary>
+        /// Overrides the Voice method to print the sound made by a duck.
+        /// </summary>
         public override void Voice()
         {
             Console.WriteLine("Quack Quack");
